@@ -1,0 +1,1 @@
+python run.py --data MMBench_DEV_EN --model Qwen3.6-27B --mode infer                                                                                                                                                                       
